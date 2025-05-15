@@ -738,8 +738,11 @@
         <mxCell id="wWMPq59i01s3r8_JtS9h-78" value="应力值" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1621" y="799.5" width="55" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="wWMPq59i01s3r8_JtS9h-193" value="32" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="514" y="406" width="40" height="30" as="geometry" />
+        <mxCell id="wWMPq59i01s3r8_JtS9h-193" value="65536" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="870" y="580" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wWMPq59i01s3r8_JtS9h-194" value="65536" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="880" y="590" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
