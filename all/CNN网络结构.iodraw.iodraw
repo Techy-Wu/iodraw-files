@@ -198,7 +198,7 @@
             <mxPoint x="1486.75" y="451.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wWMPq59i01s3r8_JtS9h-69" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#008a00;fontSize=15;strokeColor=#005700;" edge="1" parent="1">
+        <mxCell id="wWMPq59i01s3r8_JtS9h-69" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#60a917;fontSize=15;strokeColor=#2D7600;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1427.25" y="501.5" as="sourcePoint" />
             <mxPoint x="1486.75" y="501.5" as="targetPoint" />
@@ -212,18 +212,6 @@
         </mxCell>
         <mxCell id="wWMPq59i01s3r8_JtS9h-72" value="乘法器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1572" y="485" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wWMPq59i01s3r8_JtS9h-74" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d0cee2;fontSize=15;strokeColor=#56517e;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1427.25" y="605.5" as="sourcePoint" />
-            <mxPoint x="1486.75" y="605.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wWMPq59i01s3r8_JtS9h-75" value="残差网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1562" y="538.5" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wWMPq59i01s3r8_JtS9h-76" value="One-hot 解码器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1537" y="592.5" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wWMPq59i01s3r8_JtS9h-79" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f5f5f5;fontSize=15;strokeColor=#666666;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
