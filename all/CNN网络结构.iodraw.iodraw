@@ -297,7 +297,7 @@
             <mxPoint x="1315" y="205.71" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wWMPq59i01s3r8_JtS9h-78" value="材料应力云图" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="wWMPq59i01s3r8_JtS9h-78" value="应力值" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1342.5" y="146" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wWMPq59i01s3r8_JtS9h-79" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f5f5f5;fontSize=15;strokeColor=#666666;" edge="1" parent="1">
