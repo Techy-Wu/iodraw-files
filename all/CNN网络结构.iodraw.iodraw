@@ -132,6 +132,15 @@
         <mxCell id="wWMPq59i01s3r8_JtS9h-56" value="输出" style="swimlane;startSize=33;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1422" y="695.75" width="280" height="252.5" as="geometry" />
         </mxCell>
+        <mxCell id="wWMPq59i01s3r8_JtS9h-192" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#008a00;fontSize=15;strokeColor=#005700;" edge="1" parent="wWMPq59i01s3r8_JtS9h-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="115" y="130.25" as="sourcePoint" />
+            <mxPoint x="174.5" y="130.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wWMPq59i01s3r8_JtS9h-78" value="应力值" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="wWMPq59i01s3r8_JtS9h-56">
+          <mxGeometry x="186" y="103.75" width="55" height="55" as="geometry" />
+        </mxCell>
         <mxCell id="wWMPq59i01s3r8_JtS9h-57" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="1390" y="30" width="326" height="610" as="geometry" />
         </mxCell>
@@ -212,9 +221,6 @@
         </mxCell>
         <mxCell id="wWMPq59i01s3r8_JtS9h-76" value="One-hot 解码器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1537" y="592.5" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wWMPq59i01s3r8_JtS9h-78" value="应力值" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="802" width="55" height="55" as="geometry" />
         </mxCell>
         <mxCell id="wWMPq59i01s3r8_JtS9h-79" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f5f5f5;fontSize=15;strokeColor=#666666;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -730,12 +736,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1340" y="820" as="sourcePoint" />
             <mxPoint x="1390" y="770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wWMPq59i01s3r8_JtS9h-192" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#008a00;fontSize=15;strokeColor=#005700;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1437.25" y="564.5" as="sourcePoint" />
-            <mxPoint x="1496.75" y="564.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
