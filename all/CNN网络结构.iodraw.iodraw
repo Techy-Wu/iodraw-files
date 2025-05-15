@@ -192,7 +192,7 @@
             <mxPoint x="1486.75" y="401.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wWMPq59i01s3r8_JtS9h-68" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#0050ef;fontSize=15;strokeColor=#001DBC;" edge="1" parent="1">
+        <mxCell id="wWMPq59i01s3r8_JtS9h-68" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;fontSize=15;strokeColor=#006EAF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1427.25" y="451.5" as="sourcePoint" />
             <mxPoint x="1486.75" y="451.5" as="targetPoint" />
@@ -207,8 +207,8 @@
         <mxCell id="wWMPq59i01s3r8_JtS9h-70" value="下采样" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1572" y="383.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wWMPq59i01s3r8_JtS9h-71" value="注意力机制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1552" y="435.5" width="110" height="30" as="geometry" />
+        <mxCell id="wWMPq59i01s3r8_JtS9h-71" value="展平数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1562" y="435.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wWMPq59i01s3r8_JtS9h-72" value="上采样" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1572" y="485" width="70" height="30" as="geometry" />
