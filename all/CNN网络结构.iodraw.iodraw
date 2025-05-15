@@ -225,26 +225,8 @@
         <mxCell id="wWMPq59i01s3r8_JtS9h-80" value="广播" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2173.75" y="616.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wWMPq59i01s3r8_JtS9h-81" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="890" y="716.5" width="32.5" height="32.5" as="geometry" />
-        </mxCell>
-        <mxCell id="wWMPq59i01s3r8_JtS9h-82" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="890" y="766.25" width="32.5" height="32.5" as="geometry" />
-        </mxCell>
-        <mxCell id="wWMPq59i01s3r8_JtS9h-83" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="890" y="807" width="32.5" height="32.5" as="geometry" />
-        </mxCell>
-        <mxCell id="wWMPq59i01s3r8_JtS9h-84" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="890" y="880" width="32.5" height="32.5" as="geometry" />
-        </mxCell>
-        <mxCell id="wWMPq59i01s3r8_JtS9h-85" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="890" y="930" width="32.5" height="32.5" as="geometry" />
-        </mxCell>
-        <mxCell id="wWMPq59i01s3r8_JtS9h-86" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="890" y="674.5" width="32.5" height="32.5" as="geometry" />
-        </mxCell>
         <mxCell id="wWMPq59i01s3r8_JtS9h-87" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="890" y="634.5" width="30" height="30" as="geometry" />
+          <mxGeometry x="900" y="637.5" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
