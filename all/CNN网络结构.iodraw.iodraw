@@ -178,7 +178,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wWMPq59i01s3r8_JtS9h-46" value="应变量" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="wWMPq59i01s3r8_JtS9h-40">
-          <mxGeometry x="102.5" y="452" width="55" height="56" as="geometry" />
+          <mxGeometry x="102.5" y="452" width="55" height="55" as="geometry" />
         </mxCell>
         <mxCell id="wWMPq59i01s3r8_JtS9h-47" value="256" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="wWMPq59i01s3r8_JtS9h-40">
           <mxGeometry x="20" y="113" width="50" height="30" as="geometry" />
