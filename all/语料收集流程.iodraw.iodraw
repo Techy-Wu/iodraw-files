@@ -106,7 +106,7 @@
         <mxCell id="oflMkBMeDXaS_UE-8ebA-74" value="模量" style="rounded=1;" parent="oflMkBMeDXaS_UE-8ebA-67" vertex="1">
           <mxGeometry x="150" y="40" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oflMkBMeDXaS_UE-8ebA-97" value="Python 操作和封装层" style="swimlane;startSize=40;" parent="1" vertex="1">
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-97" value="Python 操作和封装层" style="swimlane;startSize=40;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="260" y="50" width="380" height="1470" as="geometry" />
         </mxCell>
         <mxCell id="oflMkBMeDXaS_UE-8ebA-98" value="" style="endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.15;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" parent="oflMkBMeDXaS_UE-8ebA-97" source="oflMkBMeDXaS_UE-8ebA-108" target="oflMkBMeDXaS_UE-8ebA-109" edge="1">
@@ -198,7 +198,7 @@
         <mxCell id="oflMkBMeDXaS_UE-8ebA-139" value="Model_Info{}" style="shape=cylinder;boundedLbl=1;backgroundOutline=1;" parent="oflMkBMeDXaS_UE-8ebA-97" vertex="1">
           <mxGeometry x="230" y="1050" width="125" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oflMkBMeDXaS_UE-8ebA-115" value="ANSYS Mechanical&#xa;有限元计算内核" style="swimlane;startSize=40;" parent="1" vertex="1">
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-115" value="ANSYS Mechanical&#xa;有限元计算内核" style="swimlane;startSize=40;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="50" width="180" height="1470" as="geometry" />
         </mxCell>
         <mxCell id="oflMkBMeDXaS_UE-8ebA-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;" parent="oflMkBMeDXaS_UE-8ebA-115" source="oflMkBMeDXaS_UE-8ebA-120" target="oflMkBMeDXaS_UE-8ebA-119" edge="1">
