@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oflMkBMeDXaS_UE-8ebA-63" value="材料数据" style="swimlane;startSize=40;strokeColor=#82b366;swimlaneFillColor=default;fillColor=#d5e8d4;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-63" value="材料数据" style="swimlane;startSize=40;strokeColor=none;swimlaneFillColor=default;fillColor=#d5e8d4;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="10" y="50" width="250" height="1470" as="geometry" />
         </mxCell>
         <mxCell id="oflMkBMeDXaS_UE-8ebA-64" value="材料力学性能&#xa;快速预测模型&#xa;数据集" style="shape=note;backgroundOutline=1;darkOpacity=0.05;" parent="oflMkBMeDXaS_UE-8ebA-63" vertex="1">
@@ -106,7 +106,7 @@
         <mxCell id="oflMkBMeDXaS_UE-8ebA-74" value="模量" style="rounded=1;" parent="oflMkBMeDXaS_UE-8ebA-67" vertex="1">
           <mxGeometry x="150" y="40" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oflMkBMeDXaS_UE-8ebA-97" value="Python 操作和封装层" style="swimlane;startSize=40;dashed=1;dashPattern=8 8;strokeColor=#9673a6;fillColor=#e1d5e7;swimlaneFillColor=default;" parent="1" vertex="1">
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-97" value="Python 操作和封装层" style="swimlane;startSize=40;dashed=1;dashPattern=8 8;strokeColor=none;fillColor=#e1d5e7;swimlaneFillColor=default;" parent="1" vertex="1">
           <mxGeometry x="260" y="50" width="380" height="1470" as="geometry" />
         </mxCell>
         <mxCell id="oflMkBMeDXaS_UE-8ebA-98" value="" style="endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.15;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" parent="oflMkBMeDXaS_UE-8ebA-97" source="oflMkBMeDXaS_UE-8ebA-108" target="oflMkBMeDXaS_UE-8ebA-109" edge="1">
@@ -309,6 +309,12 @@
               <mxPoint x="330" y="600" />
               <mxPoint x="130" y="600" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lNCK0Qxa0Kxc_sWSVYoz-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="560" as="sourcePoint" />
+            <mxPoint x="450" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
