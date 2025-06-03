@@ -67,7 +67,7 @@
             <mxPoint x="758" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iv297buixl0AuE4WyKZY-27" value="批量输出" style="swimlane;startSize=35;horizontal=1;containerType=tree;fontSize=15;dashed=1;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="1" vertex="1">
+        <mxCell id="Iv297buixl0AuE4WyKZY-27" value="批量输出" style="swimlane;startSize=35;horizontal=1;containerType=tree;fontSize=15;dashed=1;strokeColor=none;fillColor=#D1C6D6;" parent="1" vertex="1">
           <mxGeometry x="820" y="60" width="220" height="470" as="geometry" />
         </mxCell>
         <mxCell id="Iv297buixl0AuE4WyKZY-35" value="" style="shape=note;whiteSpace=wrap;backgroundOutline=1;darkOpacity=0.05;fontSize=15;" parent="Iv297buixl0AuE4WyKZY-27" vertex="1">
