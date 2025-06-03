@@ -16,13 +16,13 @@
         <mxCell id="Iv297buixl0AuE4WyKZY-13" value="输入" style="swimlane;startSize=35;horizontal=1;containerType=tree;fontSize=15;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="110" y="60" width="220" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="Iv297buixl0AuE4WyKZY-17" value="机器学习模型" style="swimlane;startSize=35;horizontal=1;containerType=tree;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="Iv297buixl0AuE4WyKZY-17" value="机器学习模型" style="swimlane;startSize=35;horizontal=1;containerType=tree;fontSize=15;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="330" y="60" width="270" height="470" as="geometry" />
         </mxCell>
         <mxCell id="Iv297buixl0AuE4WyKZY-4" value="应力数值预测模型&#xa;（图对数回归模型）" style="shape=process;whiteSpace=wrap;backgroundOutline=1;" parent="Iv297buixl0AuE4WyKZY-17" vertex="1">
           <mxGeometry x="60" y="320" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Iv297buixl0AuE4WyKZY-18" value="输出" style="swimlane;startSize=35;horizontal=1;containerType=tree;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="Iv297buixl0AuE4WyKZY-18" value="输出" style="swimlane;startSize=35;horizontal=1;containerType=tree;fontSize=15;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="600" y="60" width="220" height="470" as="geometry" />
         </mxCell>
         <mxCell id="Iv297buixl0AuE4WyKZY-19" value="材料应变云图" style="rounded=0;whiteSpace=wrap;" parent="Iv297buixl0AuE4WyKZY-18" vertex="1">
@@ -67,7 +67,7 @@
             <mxPoint x="758" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iv297buixl0AuE4WyKZY-27" value="批量输出" style="swimlane;startSize=35;horizontal=1;containerType=tree;fontSize=15;dashed=1;" parent="1" vertex="1">
+        <mxCell id="Iv297buixl0AuE4WyKZY-27" value="批量输出" style="swimlane;startSize=35;horizontal=1;containerType=tree;fontSize=15;dashed=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="820" y="60" width="220" height="470" as="geometry" />
         </mxCell>
         <mxCell id="Iv297buixl0AuE4WyKZY-35" value="" style="shape=note;whiteSpace=wrap;backgroundOutline=1;darkOpacity=0.05;fontSize=15;" parent="Iv297buixl0AuE4WyKZY-27" vertex="1">
