@@ -1,1 +1,52 @@
-<mxfile host="Electron" modified="2025-05-12T10:25:48.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw/3.1.0 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" etag="S4WOqP__ND2f2l-BllQj" version="13.3.6" type="device"><diagram id="jo_X2X1kQBjnnoWQ6EWY" name="第 1 页">5Vldb9owFP01flwVx06wH5MQuodNmtRKlfYyRSSFaASjkA7Yr9914hR8467d1FVWJyGIj31tuOd+GsKy5njdFrv1Z1VWGxIG5ZGwOQnDOIrhXQOnAeDUAKu2LgeInoGb+mdlwMCgD3VZ7a2FnVKbrt7Z4FJtt9Wys7CibdXBXnavNvapu2JVTYCbZbGZond12a0NyoPgPPGxqldrc7SIzERTjIsNsF8XpTpcQCwnLGuV6oan5phVG627US+D3OKJ2ccv1lbb7iUC376yu9s6vT58mi1nt/n3m0bMP4xs/Cg2D+YXk1yQJCdpTkKYZEAES0k+I+lcw5dYRNIZSSIL43qdzCxM9OsWWDYngiNMhkRk6NxEEJFi2YSIBVon8ukZCezHjPq708gpMLHTj+r+/gvQlw2mo1oQ2g8GGFxRPdgVy3q7gnF0HqWq61QDGJX6kEF7VdtVxyd5oY9sg5dUqqm69gRLjMBMGgMxHkJHCzqc7Y0ZaH1haXSUK4yJrx63PlsBPBhD+BOjEA6jiIl0EJammgsbE8BZ4DAK21BiTWxCsQHkPdleEyZC3wgbf4NFWKTdIc0wORH2WCAWyAkwBi+JZRdEhHgd2EDgO2GRb4TRyEmYkETMe+a4djUIavANROxS75BKNAtlsV9XpRkUm3q1heclqKbS6taKqyGdJWaiqctSb5OOFDXHlU7cV0OyDIdPve1p3F9rkemnreqW63HwGpFP2LwwPuXFSUz8zxyJOXjpU5+kOHoFDucSOoNNMDeDPjmI8M1Bwifqktk0BU2VLjRh8LIx8CwoQyZRDq2D/RKcvvp6aJKqzLleEyupd8S6agsIe4EOfjY5UAgkGEspTkG9USQM1xFSlxd+k0ODwDt2pLPyG7TuVPXoG7pQz4mcvddcJeXzuYrSt8xVjLtzVYpzVdQzk0wrcjHHrVYvjto+CIexo2BcTDEUInnfHfie+yT3zQmZK0S6enIXsS8NkUBsON1vSjYIznFoFppVEb2T7oAGzDcL4O5+TjcD+f/THtDgBf0B5W8Zc3noIAbi3EKHP+SaECPF37omxHCGXSnvr9U8dyXv7rK4q6PrM5PIX58dO/sJbQRovwXOsP19WYqDuAmcdj08XMD6bQHUu8sx7qqTfqthOyXOcXsZ60InmVgALOXIUkx4fuaKu0+d6Op6aHWxLAhK3+spSt/wtg2G5z9Q+rmLf6FY/gs=</diagram></mxfile>
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
+  <diagram id="jo_X2X1kQBjnnoWQ6EWY" name="第 1 页">
+    <mxGraphModel dx="1554" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_Z3WTiBGwL7c7TEkSm8D-16" value="设&#xa;置&#xa;工&#xa;作&#xa;路&#xa;径&#xa;和&#xa;程&#xa;序&#xa;环&#xa;境" style="shape=offPageConnector;size=0.1;spacing=5;spacingBottom=19;" parent="1" vertex="1">
+          <mxGeometry x="790" y="150" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_Z3WTiBGwL7c7TEkSm8D-18" value="构&#xa;建&#xa;几&#xa;何&#xa;模&#xa;型" style="shape=offPageConnector;size=0.1;spacing=5;spacingBottom=19;" parent="1" vertex="1">
+          <mxGeometry x="820" y="150" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_Z3WTiBGwL7c7TEkSm8D-21" value="导&#xa;入&#xa;材&#xa;料&#xa;参&#xa;数" style="shape=offPageConnector;size=0.1;spacing=5;spacingBottom=19;" parent="1" vertex="1">
+          <mxGeometry x="850" y="150" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_Z3WTiBGwL7c7TEkSm8D-15" value="前处理" style="shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;" parent="1" vertex="1">
+          <mxGeometry x="780" y="340" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Z3WTiBGwL7c7TEkSm8D-23" value="网&#xa;格&#xa;划&#xa;分" style="shape=offPageConnector;size=0.1;spacing=5;spacingBottom=19;" parent="1" vertex="1">
+          <mxGeometry x="880" y="150" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_Z3WTiBGwL7c7TEkSm8D-26" value="规&#xa;划&#xa;载&#xa;荷&#xa;施&#xa;加&#xa;计&#xa;划" style="shape=offPageConnector;size=0.1;spacing=5;spacingBottom=19;" parent="1" vertex="1">
+          <mxGeometry x="910" y="150" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_Z3WTiBGwL7c7TEkSm8D-28" value="选&#xa;择&#xa;求&#xa;解&#xa;器" style="shape=offPageConnector;size=0.1;spacing=5;spacingBottom=19;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="150" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_Z3WTiBGwL7c7TEkSm8D-29" value="求解&#xa;计算" style="shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;" parent="1" vertex="1">
+          <mxGeometry x="990" y="340" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Z3WTiBGwL7c7TEkSm8D-34" value="绑&#xa;定&#xa;位&#xa;移&#xa;约&#xa;束&#xa;条&#xa;件" style="shape=offPageConnector;size=0.1;spacing=5;spacingBottom=19;" parent="1" vertex="1">
+          <mxGeometry x="940" y="150" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_Z3WTiBGwL7c7TEkSm8D-38" value="设&#xa;定&#xa;求&#xa;解&#xa;精&#xa;度&#xa;等&#xa;超&#xa;参&#xa;数" style="shape=offPageConnector;size=0.1;spacing=5;spacingBottom=19;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="150" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_Z3WTiBGwL7c7TEkSm8D-41" value="后处理" style="shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="340" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Z3WTiBGwL7c7TEkSm8D-42" value="保&#xa;存&#xa;求&#xa;解&#xa;结&#xa;果" style="shape=offPageConnector;size=0.1;spacing=5;spacingBottom=19;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="150" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_Z3WTiBGwL7c7TEkSm8D-43" value="从&#xa;求&#xa;解&#xa;结&#xa;果&#xa;中&#xa;读&#xa;出&#xa;数&#xa;据" style="shape=offPageConnector;size=0.1;spacing=5;spacingBottom=19;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="150" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_Z3WTiBGwL7c7TEkSm8D-44" value="数&#xa;据&#xa;归&#xa;档&#xa;整&#xa;理&#xa;和&#xa;可&#xa;视&#xa;化" style="shape=offPageConnector;size=0.1;spacing=5;spacingBottom=19;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="150" width="30" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
