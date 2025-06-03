@@ -1,1 +1,317 @@
-<mxfile host="Electron" modified="2025-05-13T04:48:23.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw/3.1.0 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" etag="kHmUsOL-S_wQivnIkF9Z" version="13.3.6"><diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">3V1bc6M4Fv41PI4LIUDiEWJnd6u6Z1KT2tqZpy5ik4RtYlyYTOL99SsJcRPCyDECPHFXGmQu9jlH3/nORcSAd2+f/8jCw+v3dBclhmXuPg24NiwLQAeQ/+jIqRjBjlsMvGTxjh9UDzzG/4v4oMlH3+NddGwdmKdpkseH9uA23e+jbd4aC7Ms/Wgf9pwm7bsewpeoM/C4DZPu6H/iXf5afguzHv9nFL+8lne2Tf7OU7j9+ZKl73t+P8OCz+ynePstLK/Fjz++hrv0ozEENwa8y9I0L7bePu+ihMq2FFtx3n3Pu9XnzqJ9rnJC+px8/xl8j9Z/hI8//r35BUdP/i8uLC7zV5i8c4EYG9fw1oZnsg3yz2MbjhGwEbw2/A3/RvmplOLxI35Lwj3ZC455mOVcz7ZJBvgdoiyPPns/O6gkQiwtSt+iPDuRQz7bxsJtrFTOR62wauy1pSzER0NuJS/VpWtJkQ0urEsEZysJzjGwb3gB3fCJ4FwmQdPwkbHBBoZGQE4k8wUCJihyVHBv+GTDo0d593TDtwxs0/MCcrGAbvjY8AE92NvQkeYFOooiFyC3x25XY6/hgW7u05xqrbbm397zJKaaXAMyvguzn78dwm2cU9mbK9NR1egZe+vVs9vWM4Cwq2kAZZoG2hTtSBTtUC0XWqFqdZjmiKJtpvF7w8PGxmYjhZ4CI5DMmSVqADltDQCrqwHP6SrA0yZ/Vyp/36YGzhWBJVOvPa3EWYiYTnBDby4bsehbZIRMw5tUlwlmVheSTBdRklRsh3NS4b4+fCrPMMeRFmhLS+pHLBm6QG3iklj3MgyvUGRXlDPKCkmRQJzaBBIgxwbVqc2kGe24IMeXGb8Mbns3rOjb9AkUy6H1nvKFQnx+lzhMJCwwKCx3Ull5ElkhysP8u6XJyp5ZVqWuBrgxMjBht2yDOnHGjb07Jk+XUVv7jDyVA4uvgps3qcSAVGIBpOhWiI4QSMo27ymiLQO/ZjczSyo0Hh2RCApRKj7XlHQWJixJoL9UXibBeinV0EZisSS4XwYrwz2CnE9UsvDYpnkNwsKog0QUs7QjV59cFuogZTEty/R4iLFUstEUo83SQoBldQCVpC6/qGBe0/pFGeUvYneWagkGWIJWo1qaO5Sz+Yp1+aZRinOGCbg0dyih88txh9aq7RCRJKtjWZK0DrB1Cayc9gt0iZ6CS5xWVjI271Aw961GgpgFQgErEgR3Oqlqn4Qq57giJtZ8tYwPuyvgQGy75e/uzAUr6DZfkolsraCJXM/iv4Eu0ctiAkTl6xdlLLsVSG3YLg4WKnobrppCM9GiRS8vJQrFqg2mVSmqA8QmRLcsMhqXGcYFz1qZtlO/JCgxmfRk9cSicuSzpNzG8PzlYAYGKwyarxuGDFkEw6yU2i1ikkeNSl9ZYl2k5G8LMWRhEGP3/qbBWNv1ccGJVmmexlEXQIxedHfgyja9+tVWlT3CJEF2W1WaNOVK4rDl0mUHKSaQ9NWqXEkwtgy6XKhySXU9V1ZaWVRdr09mS63ryeovk9X1BoS1tLqeLFabrK53mazmTpogWXC1qLqeArhNmr9E8pho6rreZfg1u5nJWysnqusNTcmFJTK9LjN7OOWv6Z6MMQsrfGZRSmCI5lkGLqDNpNUEypbJMUULIzDKoup0vb1i06ekKQtiGSHR19zrKbC3aL/zafs52dsm4fEYb4k4yFfOTn8wmuaUu39yVGM768/W3qnc+4zz4jTg8F122sord+sT6U7zvIcoi8nXjrIWeka7Ttv7gOGXlnRM37NtdOZAYHLxEGN4ic5dEpjDORhZ33Y5lkVJmMd/tb+ITNv8Dg9pTL5iPVdF/2kJBlN8VX5WbTPdCwkmCkXLKyTRuRAzvuprX2GPCtUKqvBHvptmBAFe0n2YbOrRoO1k62O+pemBw+Z/ozw/8fkdvudp26QBahv1qt7vs2u6N4OB2qoGCmy5gV5peZbgJVyxPb3HYAiihKfGYQd6wFH9Pth2zhpy93NBwV6LTzCq9YJyxczM5mtdBMkTWGm53GnYSk1jBCu91Lg8obccmuZZ4wLO+RN0WZe82lasuaB5BEjpIl0H4zEqhIyAtQ90aA5PxxANh0kSJelLFr4RQzg04Kv1XgPXruCb3nm+CQWZWpL1GECWr3F1kSNgysLArsALXslKPzQe9G9U4AB2E7NTC1yhd08Xfk4Ag5YqDJo9gYQyDF6phm5c2gi1WH6NVuYwDaNIpFpXJNii2R//2j+nBgoMtO6dCdtTEhMdUft+KrT17SnhuulLD2ubCMLSIuRJgMeWxWXaluIBU2Fx0Rw82FoqD3aVGYYmHixwiKrTVzMPLu+jyoMdvhRGM1Pp1jvVAOQhzPJ4m0S3jiFAktuZHEMUSpnTByOrpSKIcqpHF4JAYaaKnexjIYhwHxucD3a6n6uFOLoQpJuYVKQgIbGaOEx+PGQp4dd5HB1vGEegJOs+OY7IFwSS4Mdv1qgbdWx8x3q5imb+TdlRBHs1sKy4SMylSnosJg6LgCStJHkAhkMfwhBUzwpYN2ogLBVAF1hUdcnWozSK/iOqOcQr5+Qkr/9RGgtTmCWmY+ZPHYCezmjEOusQrfHhQPIwjU53l9iaVzWZrg2vu8ihVNBnSiW+i7Nom8cENOH6IzrmtK5F+2v2L9yt8r3fuUQA0qom3FaTJ+NIpkRL2qpfAEgSPDNQJLSwfC3PlU+Wr+1wDmiiVd+cHpsOld3cVd5xiA8BMVHZPkETIQLd1NiNUx2RWAIgWfwDZAtaHH2A0J/5agEz7ba9Ywh9z5585LI+KmcAjzncfoueGdpCrdJFAm13Z0dbKOH0txrvd4zXlDVDTmu8sEvUbzMh2xWujCpMjAzdjKz/6+Ofj2Toe7R9DffxNkzEJ9Td0YJQUZDzWNiKWdFIwuwcyruxw8l4gLuK0tub5NoCXEgEPnFvEgAKj4xaWjWospNhllUSGgWW1dNcNFE5CMyYSJxCD8rdCda1bPdKPfSseyfB+6Z8UqBdNyP3Qf0xjw5CzE6HmqH6c/wZlU+wBUIgSQRKEeEK9Oe66cUioWSBPEldGkjAv6IzGkQvy4F1UPzvInFXxhWlEoeOLomX6CiulfF4YutvauyOzPECmePVZ+xWN3flP6y/GUXmnecYbZpR9KvH9QKB+mDM8ofV2OEU7o+nY3kNk2UlGytNaeMMe1QwmU/FW3z5L1tD4PVHVtsw22lVkECMqqdiz/egXlD635t0yAp0B1/pZnu69kyxz0MAr54m6UszSuJ98EBCaeB4TfkkS6XVStr5X3bwN9v3m737tHGv0b2P+9r36wToZQViBQvkQ4PcDym3jZg9NjlNfz8castX7e+HAK5cbNY/buu6lu2t3Ma7ZcfaRN3/VUg/cz6+lY4HQ/0KY82HEe3aVV+3ogdroZAkdx21dihJtl3o+xe96kigbYvOYZKObkslwzEGCLsLBuFylayCsbpzgnCn9e6ri6xESgnFNZPaYVYloXN+1d+FPV3D5uq0MNLRj5GecvrN7Gn4msjsPAEBv+r7RbPDYrJcu9mpLDadL2xRNZyqSKiQMLy2j/9LvswV2KI7sFZOPN4xp+jws5ax1HOU9tQS30AT31bnVzSPapHqzaujWGTHhJDVNiFQFYtGbtdANm7fyIRTGGvpoZcUmAwutf9iI7W61akWTtwe3nZ1VCw0lIkJHd0ODXYTpTNYxQj4NQsWuT1516t7x9oAocqur0UiD51P8wns68LDgbDQRxfOWbdn0SMar6ucoy4yY7OVguGMC2W/6o/G1JP6cj89DapiLgCYk/sehb/cocsCXvO3pKni7qRtmQJlT01jQNP4IdX43tW0ngsLjcW2+Bj2kRyRbQsNybYzRe4SztgVJDXAhbHjctnUsP1pSsELRAiJ6cqRzE+8jzv08JTzx19qrWS3/svSxeH1n++Gm/8D</diagram></mxfile>
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
+  <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
+    <mxGraphModel dx="1554" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-63" value="材料数据" style="swimlane;startSize=40;" parent="1" vertex="1">
+          <mxGeometry x="10" y="50" width="250" height="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-64" value="材料力学性能&#xa;快速预测模型&#xa;数据集" style="shape=note;backgroundOutline=1;darkOpacity=0.05;" parent="oflMkBMeDXaS_UE-8ebA-63" vertex="1">
+          <mxGeometry x="60" y="1330" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-65" value="各步应变云图" style="shape=note;backgroundOutline=1;darkOpacity=0.05;" parent="oflMkBMeDXaS_UE-8ebA-63" vertex="1">
+          <mxGeometry x="75" y="1120" width="95" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-66" value="复合材料&#xa;力学相应曲线" style="shape=note;backgroundOutline=1;darkOpacity=0.05;" parent="oflMkBMeDXaS_UE-8ebA-63" vertex="1">
+          <mxGeometry x="75" y="1010" width="95" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-75" value="" style="group;" parent="oflMkBMeDXaS_UE-8ebA-63" vertex="1" connectable="0">
+          <mxGeometry x="15" y="250" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-76" value="" style="shape=note;backgroundOutline=1;darkOpacity=0.05;" parent="oflMkBMeDXaS_UE-8ebA-75" vertex="1">
+          <mxGeometry width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-77" value="力学响应曲线" style="rounded=1;" parent="oflMkBMeDXaS_UE-8ebA-75" vertex="1">
+          <mxGeometry x="80" y="80" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-78" value="密度" style="rounded=1;" parent="oflMkBMeDXaS_UE-8ebA-75" vertex="1">
+          <mxGeometry x="10" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-79" value="硬度" style="rounded=1;" parent="oflMkBMeDXaS_UE-8ebA-75" vertex="1">
+          <mxGeometry x="10" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-80" value="材料物理本构" style="rounded=0;" parent="oflMkBMeDXaS_UE-8ebA-75" vertex="1">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-81" value="泊松比" style="rounded=1;" parent="oflMkBMeDXaS_UE-8ebA-75" vertex="1">
+          <mxGeometry x="80" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-82" value="模量" style="rounded=1;" parent="oflMkBMeDXaS_UE-8ebA-75" vertex="1">
+          <mxGeometry x="150" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-83" value="" style="group;" parent="oflMkBMeDXaS_UE-8ebA-63" vertex="1" connectable="0">
+          <mxGeometry x="15" y="80" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-84" value="" style="shape=note;backgroundOutline=1;darkOpacity=0.05;" parent="oflMkBMeDXaS_UE-8ebA-83" vertex="1">
+          <mxGeometry width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-85" value="体积比" style="rounded=1;" parent="oflMkBMeDXaS_UE-8ebA-83" vertex="1">
+          <mxGeometry x="10" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-86" value="颗粒体信息" style="rounded=0;" parent="oflMkBMeDXaS_UE-8ebA-83" vertex="1">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-87" value="直径" style="rounded=1;" parent="oflMkBMeDXaS_UE-8ebA-83" vertex="1">
+          <mxGeometry x="80" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-88" value="坐标" style="rounded=1;" parent="oflMkBMeDXaS_UE-8ebA-83" vertex="1">
+          <mxGeometry x="150" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-89" value="" style="group;" parent="oflMkBMeDXaS_UE-8ebA-63" vertex="1" connectable="0">
+          <mxGeometry x="12.5" y="710" width="225" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-90" value="" style="shape=note;backgroundOutline=1;darkOpacity=0.05;" parent="oflMkBMeDXaS_UE-8ebA-89" vertex="1">
+          <mxGeometry width="225" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-91" value="形变方式" style="rounded=1;" parent="oflMkBMeDXaS_UE-8ebA-89" vertex="1">
+          <mxGeometry x="10.227272727272727" y="86.15384615384615" width="61.36363636363636" height="32.30769230769231" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-92" value="缩放比例" style="rounded=1;" parent="oflMkBMeDXaS_UE-8ebA-89" vertex="1">
+          <mxGeometry x="10.227272727272727" y="43.07692307692307" width="61.36363636363636" height="32.30769230769231" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-93" value="模型设置" style="rounded=0;" parent="oflMkBMeDXaS_UE-8ebA-89" vertex="1">
+          <mxGeometry width="92.04545454545455" height="32.30769230769231" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-94" value="固定方式" style="rounded=1;" parent="oflMkBMeDXaS_UE-8ebA-89" vertex="1">
+          <mxGeometry x="81.81818181818181" y="86.15384615384615" width="61.36363636363636" height="32.30769230769231" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-95" value="计算步数" style="rounded=1;" parent="oflMkBMeDXaS_UE-8ebA-89" vertex="1">
+          <mxGeometry x="81.81818181818181" y="43.07692307692307" width="61.36363636363636" height="32.30769230769231" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-96" value="目标&#xa;形变量&#xa;设置" style="rounded=1;" parent="oflMkBMeDXaS_UE-8ebA-89" vertex="1">
+          <mxGeometry x="153.4090909090909" y="44.15384615384615" width="61.36363636363636" height="74.3076923076923" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-67" value="" style="group;" parent="oflMkBMeDXaS_UE-8ebA-63" vertex="1" connectable="0">
+          <mxGeometry x="12.5" y="570" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-68" value="" style="shape=note;backgroundOutline=1;darkOpacity=0.05;" parent="oflMkBMeDXaS_UE-8ebA-67" vertex="1">
+          <mxGeometry width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-69" value="力学响应曲线" style="rounded=1;" parent="oflMkBMeDXaS_UE-8ebA-67" vertex="1">
+          <mxGeometry x="80" y="80" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-70" value="密度" style="rounded=1;" parent="oflMkBMeDXaS_UE-8ebA-67" vertex="1">
+          <mxGeometry x="10" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-71" value="硬度" style="rounded=1;" parent="oflMkBMeDXaS_UE-8ebA-67" vertex="1">
+          <mxGeometry x="10" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-72" value="材料物理本构" style="rounded=0;" parent="oflMkBMeDXaS_UE-8ebA-67" vertex="1">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-73" value="泊松比" style="rounded=1;" parent="oflMkBMeDXaS_UE-8ebA-67" vertex="1">
+          <mxGeometry x="80" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-74" value="模量" style="rounded=1;" parent="oflMkBMeDXaS_UE-8ebA-67" vertex="1">
+          <mxGeometry x="150" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-97" value="Python 操作和封装层" style="swimlane;startSize=40;" parent="1" vertex="1">
+          <mxGeometry x="260" y="50" width="380" height="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-98" value="" style="endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.15;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" parent="oflMkBMeDXaS_UE-8ebA-97" source="oflMkBMeDXaS_UE-8ebA-108" target="oflMkBMeDXaS_UE-8ebA-109" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="420" as="sourcePoint" />
+            <mxPoint x="160" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.175;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" parent="oflMkBMeDXaS_UE-8ebA-97" source="oflMkBMeDXaS_UE-8ebA-104" target="oflMkBMeDXaS_UE-8ebA-114" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="845" />
+              <mxPoint x="250" y="613" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="oflMkBMeDXaS_UE-8ebA-97" source="oflMkBMeDXaS_UE-8ebA-101" target="oflMkBMeDXaS_UE-8ebA-110" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="95" y="1300" />
+              <mxPoint x="155" y="1300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-101" value="图像降维" style="shape=parallelogram;perimeter=parallelogramPerimeter;" parent="oflMkBMeDXaS_UE-8ebA-97" vertex="1">
+          <mxGeometry x="35" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-102" value="图像裁剪" style="shape=parallelogram;perimeter=parallelogramPerimeter;" parent="oflMkBMeDXaS_UE-8ebA-97" vertex="1">
+          <mxGeometry x="35" y="1135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;" parent="oflMkBMeDXaS_UE-8ebA-97" source="oflMkBMeDXaS_UE-8ebA-102" target="oflMkBMeDXaS_UE-8ebA-101" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-104" value="Python 对象&#xa;Model_Info{}" style="shape=cylinder;boundedLbl=1;backgroundOutline=1;" parent="oflMkBMeDXaS_UE-8ebA-97" vertex="1">
+          <mxGeometry x="75" y="790" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.175;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" parent="oflMkBMeDXaS_UE-8ebA-97" source="oflMkBMeDXaS_UE-8ebA-106" target="oflMkBMeDXaS_UE-8ebA-114" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="215" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="215" />
+              <mxPoint x="250" y="578" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-106" value="Python 对象&#xa;Particle_Info{}" style="shape=cylinder;boundedLbl=1;backgroundOutline=1;" parent="oflMkBMeDXaS_UE-8ebA-97" vertex="1">
+          <mxGeometry x="75" y="150" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.25;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="oflMkBMeDXaS_UE-8ebA-97" source="oflMkBMeDXaS_UE-8ebA-108" target="oflMkBMeDXaS_UE-8ebA-114" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="410" />
+              <mxPoint x="230" y="595" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-108" value="Python 对象&#xa;Material_Properties{}" style="shape=cylinder;boundedLbl=1;backgroundOutline=1;" parent="oflMkBMeDXaS_UE-8ebA-97" vertex="1">
+          <mxGeometry x="75" y="340" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-109" value="热应力区修正" style="shape=parallelogram;perimeter=parallelogramPerimeter;" parent="oflMkBMeDXaS_UE-8ebA-97" vertex="1">
+          <mxGeometry x="10" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-110" value="数据命名和结构&#xa;标准化" style="shape=parallelogram;perimeter=parallelogramPerimeter;" parent="oflMkBMeDXaS_UE-8ebA-97" vertex="1">
+          <mxGeometry x="125" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-111" value="工程应变&#xa;计算模块" style="shape=xor;direction=west;spacing=0;spacingRight=17;" parent="oflMkBMeDXaS_UE-8ebA-97" vertex="1">
+          <mxGeometry x="185" y="950" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="oflMkBMeDXaS_UE-8ebA-97" source="oflMkBMeDXaS_UE-8ebA-113" target="oflMkBMeDXaS_UE-8ebA-110" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="307.5" y="1320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="293" y="1210" />
+              <mxPoint x="215" y="1210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-113" value="Material_Properties{}" style="shape=cylinder;boundedLbl=1;backgroundOutline=1;" parent="oflMkBMeDXaS_UE-8ebA-97" vertex="1">
+          <mxGeometry x="230" y="1110" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-114" value="Python&#xa;转译桥" style="shape=xor;spacingLeft=13;" parent="oflMkBMeDXaS_UE-8ebA-97" vertex="1">
+          <mxGeometry x="270" y="560" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-138" value="Particle_Info{}" style="shape=cylinder;boundedLbl=1;backgroundOutline=1;" parent="oflMkBMeDXaS_UE-8ebA-97" vertex="1">
+          <mxGeometry x="230" y="1080" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-139" value="Model_Info{}" style="shape=cylinder;boundedLbl=1;backgroundOutline=1;" parent="oflMkBMeDXaS_UE-8ebA-97" vertex="1">
+          <mxGeometry x="230" y="1050" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-115" value="ANSYS Mechanical&#xa;有限元计算内核" style="swimlane;startSize=40;" parent="1" vertex="1">
+          <mxGeometry x="640" y="50" width="180" height="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;" parent="oflMkBMeDXaS_UE-8ebA-115" source="oflMkBMeDXaS_UE-8ebA-120" target="oflMkBMeDXaS_UE-8ebA-119" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;" parent="oflMkBMeDXaS_UE-8ebA-115" source="oflMkBMeDXaS_UE-8ebA-121" target="oflMkBMeDXaS_UE-8ebA-120" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-118" value="后处理" style="shape=step;perimeter=stepPerimeter;fixedSize=1;direction=south;" parent="oflMkBMeDXaS_UE-8ebA-115" vertex="1">
+          <mxGeometry x="50" y="795" width="115" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-119" value="计算" style="shape=step;perimeter=stepPerimeter;fixedSize=1;direction=south;" parent="oflMkBMeDXaS_UE-8ebA-115" vertex="1">
+          <mxGeometry x="50" y="660" width="115" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-120" value="前处理" style="shape=step;perimeter=stepPerimeter;fixedSize=1;direction=south;" parent="oflMkBMeDXaS_UE-8ebA-115" vertex="1">
+          <mxGeometry x="50" y="550" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-121" value="APDL 命令流&#xa;或&#xa;pyansys 同步执行方法" style="shape=card;" parent="oflMkBMeDXaS_UE-8ebA-115" vertex="1">
+          <mxGeometry x="40" y="400" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;" parent="oflMkBMeDXaS_UE-8ebA-115" target="oflMkBMeDXaS_UE-8ebA-118" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="105" y="795" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="105" y="810" />
+              <mxPoint x="105" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-123" value="" style="endArrow=classic;exitX=0;exitY=0;exitDx=220;exitDy=80;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oflMkBMeDXaS_UE-8ebA-76" target="oflMkBMeDXaS_UE-8ebA-108" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="370" as="sourcePoint" />
+            <mxPoint x="313.68000000000006" y="249.60000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=220;exitDy=80;exitPerimeter=0;" parent="1" source="oflMkBMeDXaS_UE-8ebA-68" target="oflMkBMeDXaS_UE-8ebA-108" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="655" as="targetPoint" />
+            <mxPoint x="210" y="810" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="405" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-126" value="" style="endArrow=classic;exitX=0;exitY=0;exitDx=220;exitDy=60;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oflMkBMeDXaS_UE-8ebA-84" target="oflMkBMeDXaS_UE-8ebA-106" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="220" as="sourcePoint" />
+            <mxPoint x="240" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-127" value="" style="endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=225;exitDy=85;exitPerimeter=0;" parent="1" source="oflMkBMeDXaS_UE-8ebA-90" target="oflMkBMeDXaS_UE-8ebA-104" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="870" as="sourcePoint" />
+            <mxPoint x="240" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;" parent="1" source="oflMkBMeDXaS_UE-8ebA-114" target="oflMkBMeDXaS_UE-8ebA-121" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="645" />
+              <mxPoint x="660" y="505" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.25;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="oflMkBMeDXaS_UE-8ebA-118" target="oflMkBMeDXaS_UE-8ebA-111" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="1180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="748" y="1035" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="oflMkBMeDXaS_UE-8ebA-111" target="oflMkBMeDXaS_UE-8ebA-66" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="oflMkBMeDXaS_UE-8ebA-118" target="oflMkBMeDXaS_UE-8ebA-65" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="1330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="748" y="970" />
+              <mxPoint x="40" y="970" />
+              <mxPoint x="40" y="1215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oflMkBMeDXaS_UE-8ebA-65" target="oflMkBMeDXaS_UE-8ebA-102" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oflMkBMeDXaS_UE-8ebA-66" target="oflMkBMeDXaS_UE-8ebA-110" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="1095" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=0;entryX=0;entryY=0;entryDx=130;entryDy=70;entryPerimeter=0;" parent="1" source="oflMkBMeDXaS_UE-8ebA-110" target="oflMkBMeDXaS_UE-8ebA-64" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="283" y="1440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="445" y="1450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oflMkBMeDXaS_UE-8ebA-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="oflMkBMeDXaS_UE-8ebA-109" target="oflMkBMeDXaS_UE-8ebA-68" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="600" />
+              <mxPoint x="130" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
