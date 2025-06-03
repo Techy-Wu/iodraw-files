@@ -25,10 +25,10 @@
         <mxCell id="Iv297buixl0AuE4WyKZY-18" value="输出" style="swimlane;startSize=35;horizontal=1;containerType=tree;fontSize=15;strokeColor=none;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="600" y="60" width="220" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="Iv297buixl0AuE4WyKZY-19" value="材料应变云图" style="rounded=0;whiteSpace=wrap;" parent="Iv297buixl0AuE4WyKZY-18" vertex="1">
+        <mxCell id="Iv297buixl0AuE4WyKZY-19" value="材料应变云图" style="rounded=0;" parent="Iv297buixl0AuE4WyKZY-18" vertex="1">
           <mxGeometry x="65" y="85" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Iv297buixl0AuE4WyKZY-20" value="应力值" style="rounded=0;whiteSpace=wrap;" parent="Iv297buixl0AuE4WyKZY-18" vertex="1">
+        <mxCell id="Iv297buixl0AuE4WyKZY-20" value="应力值" style="rounded=0;" parent="Iv297buixl0AuE4WyKZY-18" vertex="1">
           <mxGeometry x="85" y="335" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Iv297buixl0AuE4WyKZY-21" value="" style="endArrow=classic;fontSize=15;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Iv297buixl0AuE4WyKZY-1" target="Iv297buixl0AuE4WyKZY-3" edge="1">
