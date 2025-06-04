@@ -77,12 +77,12 @@
         </mxCell>
         <mxCell id="6e7OW2vEqVZn72hV9Kki-4" value="" style="endArrow=classic;html=1;rounded=0;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="280" as="sourcePoint" />
+            <mxPoint x="480" y="260" as="sourcePoint" />
             <mxPoint x="390" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="570" y="280" />
-              <mxPoint x="560" y="430" />
-              <mxPoint x="470" y="480" />
+              <mxPoint x="550" y="300" />
+              <mxPoint x="540" y="430" />
+              <mxPoint x="460" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
