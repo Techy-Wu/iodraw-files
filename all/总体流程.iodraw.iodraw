@@ -23,7 +23,7 @@
           <mxGeometry x="10" y="12" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="onHasON-XhVV15VGXedD-5" value="Ansys Mechanical 有限元" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#fff2cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="650" y="460" width="160" height="118" as="geometry" />
+          <mxGeometry x="630" y="450" width="160" height="118" as="geometry" />
         </mxCell>
         <mxCell id="onHasON-XhVV15VGXedD-12" value="" style="group;" parent="onHasON-XhVV15VGXedD-5" vertex="1" connectable="0">
           <mxGeometry y="26" width="160" height="92" as="geometry" />
@@ -63,7 +63,7 @@
         <mxCell id="onHasON-XhVV15VGXedD-63" value="材料择优&#xa;合成指导" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="880" y="680" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6e7OW2vEqVZn72hV9Kki-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.673;exitY=1.077;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="onHasON-XhVV15VGXedD-4" target="onHasON-XhVV15VGXedD-5">
+        <mxCell id="6e7OW2vEqVZn72hV9Kki-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.795;exitY=1.123;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="onHasON-XhVV15VGXedD-4" target="onHasON-XhVV15VGXedD-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="220" as="sourcePoint" />
             <mxPoint x="720" y="410" as="targetPoint" />
