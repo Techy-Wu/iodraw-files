@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="onHasON-XhVV15VGXedD-22" value="快速预测网络" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="360" y="550" width="160" height="118" as="geometry" />
+          <mxGeometry x="90" y="540" width="160" height="118" as="geometry" />
         </mxCell>
         <mxCell id="onHasON-XhVV15VGXedD-23" value="" style="group;" parent="onHasON-XhVV15VGXedD-22" vertex="1" connectable="0">
           <mxGeometry y="26" width="160" height="92" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="10" y="12" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="onHasON-XhVV15VGXedD-5" value="Ansys Mechanical 有限元" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#fff2cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="720" y="510" width="160" height="118" as="geometry" />
+          <mxGeometry x="630" y="540" width="160" height="118" as="geometry" />
         </mxCell>
         <mxCell id="onHasON-XhVV15VGXedD-12" value="" style="group;" parent="onHasON-XhVV15VGXedD-5" vertex="1" connectable="0">
           <mxGeometry y="26" width="160" height="92" as="geometry" />
