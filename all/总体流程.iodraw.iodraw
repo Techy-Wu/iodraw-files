@@ -37,7 +37,7 @@
         <mxCell id="onHasON-XhVV15VGXedD-9" value="前&#xa;处&#xa;理" style="shape=step;perimeter=stepPerimeter;fixedSize=1;" parent="onHasON-XhVV15VGXedD-12" vertex="1">
           <mxGeometry x="10" y="12" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="onHasON-XhVV15VGXedD-60" value="" style="sketch=0;orthogonalLoop=1;jettySize=auto;shadow=0;dashed=1;strokeWidth=3;fillColor=none;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="onHasON-XhVV15VGXedD-22" target="onHasON-XhVV15VGXedD-1" edge="1">
+        <mxCell id="onHasON-XhVV15VGXedD-60" value="" style="sketch=0;orthogonalLoop=1;jettySize=auto;shadow=0;dashed=1;strokeWidth=3;fillColor=none;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.203;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="onHasON-XhVV15VGXedD-22" target="onHasON-XhVV15VGXedD-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="344" as="sourcePoint" />
           </mxGeometry>
@@ -63,7 +63,7 @@
         <mxCell id="onHasON-XhVV15VGXedD-63" value="材料择优&#xa;合成指导" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="390" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6e7OW2vEqVZn72hV9Kki-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="6e7OW2vEqVZn72hV9Kki-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.673;exitY=1.077;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="onHasON-XhVV15VGXedD-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="220" as="sourcePoint" />
             <mxPoint x="720" y="410" as="targetPoint" />
