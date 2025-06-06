@@ -733,10 +733,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PsdJAiUr8Ysemgwsu8OV-1" value="" style="ellipse;whiteSpace=wrap;aspect=fixed;fillColor=#cce5ff;strokeColor=#36393d;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1155" y="355" width="30" height="30" as="geometry" />
+          <mxGeometry x="1155" y="299" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PsdJAiUr8Ysemgwsu8OV-2" value="神经元" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="355" width="80" height="30" as="geometry" />
+          <mxGeometry x="1280" y="299" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PsdJAiUr8Ysemgwsu8OV-3" value="" style="endArrow=classic;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
